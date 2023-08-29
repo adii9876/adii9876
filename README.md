@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aditya Gangwar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adii9876&label=Profile%20views&color=0e75b6&style=flat" alt="adii9876" /> </p>
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://adii9876.github.io/Portfolio/](https://adii9876.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/adii9876](https://github.com/adii9876)
 
 - 📫 How to reach me **aditya.gangwar6388@gmail.com**
 
