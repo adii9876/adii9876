@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/adii9876](https://github.com/adii9876)
 
 - 📫 How to reach me **aditya.gangwar6388@gmail.com**
-- (https://holopin.me/adii9876)](https://holopin.io/@adii9876)
+- [![An image of @adii9876's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adii9876)](https://holopin.io/@adii9876)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
